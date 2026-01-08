@@ -61,7 +61,7 @@
 #    endif
 
 #    ifndef DIGITIZER_MAX_CPI
-#        define DIGITIZER_MAX_CPI 1200
+#        define DIGITIZER_MAX_CPI 3200
 #    endif
 
 #    ifdef DIGITIZER_REPORT_TAPS_AS_CLICKS
